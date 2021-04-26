@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Pixel Perfect Plus</h1>
 <p align="center">A <a href="https://github.com/goatcorp/Dalamud">Dalamud</a> plugin for showing hitboxes<br>Based on <a href="https://github.com/Haplo064">Haplo's</a> <a href="https://github.com/Haplo064/PixelPerfect">PixelPerfect</a> - Type<code>/ppp</code> in-game to configure!</p><br>
 
-
+<img src="https://user-images.githubusercontent.com/76499752/116016839-255d8080-a63e-11eb-8aaa-ea65011a4b6a.png" width="40%" align="right">
 
 This plugin aims to give the player a framework with which 
 to better understand / feel the distance they are away from one or multiple
