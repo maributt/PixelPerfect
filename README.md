@@ -26,6 +26,7 @@ of the distance of the player's surroundings in most scenarios.
 ## Plans
 
 - i REALLY need to clean up the code because it's a huge mess
+  - once that's properly done, add modular color ranges, so that any one hitbox/colorable element (such as rings too for example) can be assigned a different or common range of colors based on distances
 - probably add more configurable things for all sorts of things (aka: i heard you like checkboxes so i put checkboxes in your checkboxes pretty much)
 - segment the lines drawn in between hitboxes so they can be drawn even if the target is off-screen, or just complain that worldtoscreen SUCKS(?)
 - i swear im going to update this 
